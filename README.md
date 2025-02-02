@@ -4026,3 +4026,7 @@ harshithap2000-dai_deprivation"
 "EwoudVV_grimace_dino"
 
 ![](EwoudVV_grimace_dino.png)
+
+"Ben's Dino"
+![](https://github.com/hackclub/dinosaurs/blob/f6d9ef1c21cb1a4af16a4603cfb8d74f735a6878/Untitled.png)
+
